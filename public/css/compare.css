@@ -1,0 +1,143 @@
+.result-compare{
+    width: 100%;
+}
+.result-compare .col-md-3, .result-compare .col-lg-3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 24%;
+    margin-left: 1%;
+    border: 1.5px solid #d3d3d3;
+    border-radius: 3px;
+    /*min-height: 500px;*/
+    margin-bottom: 100px;
+    background-color: #fff;
+    /*padding-left: 8px;*/
+}
+.result-compare{
+    position: relative;
+    top:130px;
+}
+
+body{
+    padding-bottom: 50px!important;
+    background-image: url('/img/geometry_@2X.png');
+    background-repeat: repeat;
+}
+
+#map{
+    /*top: 100px !important;*/
+    margin-left: 8%;
+}
+
+hr{
+    border-top:2px solid #eeeeee;
+}
+
+.fa-question-circle{
+    font-size: 16px !important;
+    color: darkgray !important;
+}
+
+.school-name{
+    color: #26abe2;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+#school-name{
+    /*padding: 10px;*/
+    min-height: 30px;
+}
+
+.class-type span{
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.det{
+    background: #F4F4F4 !important;
+    padding: 15px 0;
+    width: 100%;
+    /*margin-left: -8px;*/
+    margin-right: 10px;
+    text-align: center;
+    margin-top: 20px;
+    color: #26abe2;
+}
+
+ ul{
+    padding-left: 0;
+}
+ ul li{
+    display: list-item !important;
+    margin: 5px 0;
+}
+
+.fa{
+    color: #005384;
+    font-size: 12px;
+    height: 20px;
+    width: 20px;
+}
+
+.criteria{
+    /*min-height: 300px!important;*/
+    padding-bottom: 20px !important;
+    border: 1.5px solid #26abe2 !important;
+    border-radius: 0 !important;
+}
+
+.map-criteria{
+    margin-top: 90px !important;
+}
+
+.fa-times-circle:hover{
+    color: green !important;
+}
+
+.follow-sch{
+    vertical-align: middle;
+    background-color: white;
+    color: #4788be;
+    border-color: #4788be;
+    border-bottom-width:3px ;
+    margin-left: 50px !important;
+    padding: 6px 17px;
+}
+
+.follow-sch:hover{
+    background-color: white !important;
+    color: #306088;
+    border-color: #306088;
+}
+
+.sch-profile{
+    vertical-align: middle;
+    background-color: #26abe2;
+    color: white;
+    border-color: #4788be;
+    border-bottom-width:3px ;
+    margin-bottom: 10px;
+    margin-left: 50px !important;
+}
+
+.sch-profile:hover{
+    background-color: #26abe2 !important;
+    color: white;
+    border-color: #306088;
+}
+
+.not_follow_sch{
+    background: #EA1010;
+    border-color: #323940;
+    color: #F0F1F3;
+    vertical-align: middle;
+    border-bottom-width:3px ;
+    margin-left: 50px !important;
+    padding: 6px 23px;
+}
+
+.not_follow_sch:hover, .not_follow_sch:focus, .not_follow_sch:active{
+    background-color: #EA1010 !important;
+    color: white;
+    border-color: #323940;
+}

@@ -1,0 +1,86 @@
+.box-body .row{
+    margin-bottom: 50px;
+}
+
+.box-danger{
+    /*background-image: url('/img/geometry2.png');*/
+    /*background-repeat: repeat;*/
+}
+
+.col-md-2{
+    /*margin-left: 90px;*/
+}
+
+#ad-icons .col-md-4{
+    position: relative;
+    margin-left: 24px;
+    padding: 40px;
+    border: 3px solid #51a351;
+    border-collapse: collapse;
+    border-radius: 5px;
+    /*border-top: 5px solid #2f96b4;*/
+    max-height: 162px;
+    max-width: 177px;
+    margin-bottom: 24px;
+    overflow-y: hidden;
+    background-color: white;
+
+}
+
+#ad-icons .fa:hover{
+    font-size: 4.5em;
+    color: #51a351;
+}
+
+
+.ad-title{
+    color: #fff;
+    position: absolute;
+    background-color: #51a351;
+    text-align: center;
+    bottom: -20px;
+    left: 0;
+    right: 0;
+}
+
+.fa-users{
+    transition: all ease-out 200ms;
+    color: #cd422b;
+    margin-bottom: 20px;
+}
+
+.fa-graduation-cap{
+    transition: all ease-out 200ms;
+    color: #d17e28;
+    margin-bottom: 20px;
+}
+
+.fa-credit-card{
+    transition: all ease-out 200ms;
+    color: #2C82C9;
+    margin-bottom: 20px;
+}
+
+.fa-cart-plus{
+    transition: all ease-out 200ms;
+    color: #605ca8;
+    margin-bottom: 20px;
+}
+.fa-database{
+    transition: all ease-out 200ms;
+    color: #f17123;
+    margin-bottom: 20px;
+}
+
+.fa-pencil-square-o{
+    transition: all ease-out 200ms;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+

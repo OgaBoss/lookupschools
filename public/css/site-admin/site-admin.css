@@ -1,0 +1,19 @@
+.user_name:hover{
+    text-decoration: underline;
+}
+
+.user-school-body{
+    border-top:5px solid #ce4844;
+}
+
+.user-school{
+    border-top: 3px solid #1A0517;
+}
+
+.line-scale-pulse-out>div,
+.ball-pulse-sync>div{
+    background-color: black !important;
+}
+.ajax-loader{
+    display: none;
+}

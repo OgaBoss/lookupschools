@@ -1,0 +1,18 @@
+body{
+    background-image: url('/img/geometry_@2X.png');
+    background-repeat: repeat;
+}
+
+.school-up{
+    background-color: #D4D4D4;
+}
+
+.guest-up{
+    background-color:#9E9D9B;
+}
+
+#sign-up{
+    margin-bottom: 100px;
+}
+
+

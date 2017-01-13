@@ -1,0 +1,27 @@
+{
+    "name": "teepluss/cloudinary",
+    "description": "Cloudinary API wrapper for Laravel 4",
+    "keywords": ["laravel", "laravel4", "cloudinary", "api", "image", "upload"],
+    "homepage": "https://github.com/teepluss/laravel4-cloudinary",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teepluss",
+            "email": "admin@laravel.in.th"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "cloudinary/cloudinary_php": "1.0.11"
+    },
+    "require-dev": {
+        "illuminate/support": "4.1.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Teepluss\\Cloudinary": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

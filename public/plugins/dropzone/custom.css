@@ -1,0 +1,47 @@
+
+.modal-body {
+    background-color: #e5e9ec;
+}
+.modal-body {
+    position: relative;
+    padding: 20px;
+}
+#demo-header {
+    height: 150px;
+    width: 100%;
+    /*background: url('http://www.jqueryajaxphp.com/cdn/2013/11/jap-logo.png') center no-repeat;*/
+    margin-bottom: 25px;
+    border-bottom: 1px solid #999;
+    padding-bottom: 25px;
+}
+
+.modal-header {
+    text-align:center;
+}
+.modal {
+    border-radius: 3px;
+}
+
+container {
+    width:800px !important;
+    text-align:center;
+    margin:0 auto
+}
+
+.uicon{
+    width: 150px;
+    margin-left: 384px;
+    margin-top: 63px;
+}
+
+.imgdecoration {
+    vertical-align: middle;
+    margin: 30px;
+    border: 3px solid #3B89C7;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+footer {
+}

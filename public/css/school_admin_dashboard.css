@@ -1,0 +1,96 @@
+.school-contacts sup,
+.location sup,
+.school-data sup{
+    font-size: 8px;
+    color: red;
+    font-weight: lighter;
+}
+
+.explain{
+    display: inline-block;
+}
+
+.fa-question-circle{
+    font-size: 16px !important;
+    color: green;
+}
+
+.religion{
+    display: none;
+}
+
+.rel-type{
+    display: none;
+}
+
+.preschool{
+    display: none;
+}
+
+.tertiary{
+    display: none;
+}
+
+.military-type{
+    display: none;
+}
+
+
+.public,
+.private,
+.military{
+    display: none;
+}
+
+.fa-plus-circle{
+    color: #84f10a;
+    font-size: 16px !important;
+}
+
+.fa-eye-slash{
+    color: black !important;
+}
+
+.upload-settings{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.img-loader,
+.img-loader-2,
+.img-loader-3,
+.testimony-loader-1,
+.testimony-loader-2,
+.testimony-loader-3{
+    display: none;
+}
+
+.faculty{
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+.faculty-body{
+    margin-bottom: 50px;
+}
+
+.fa-trash:hover{
+    color: #cc0000 !important;
+}
+
+.fa-thumbs-up:hover{
+    color: #006700 !important;
+}
+
+.fa-ban:hover{
+    color: #e69500 !important;
+}
+
+/*.remove-input{*/
+    /*border: none;*/
+    /*background-color: white !important;*/
+/*}*/
+
+
+

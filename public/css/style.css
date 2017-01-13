@@ -1,0 +1,119 @@
+
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    height: 44px;
+}
+
+#state-dropdown .select2-selection__arrow{
+    height: 0;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 44px;
+}
+
+.col-md-1.search-button button{
+    height: 47.5px;
+    background: #66cdcc;
+    color: whitesmoke;
+    width: 150px;
+    border-radius: 2px;
+}
+
+.panel{
+    height: 100px;
+}
+
+header{
+    /* Location of the image */
+    background: linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+    ),url('/img/school_2.jpg') no-repeat center center;
+    background-size: cover;
+
+    /* Image is centered vertically and horizontally at all times */
+    background-position: center center;
+
+    /* Image doesn't repeat */
+    background-repeat: no-repeat;
+
+    /* Makes the image fixed in the viewport so that it doesn't move when
+       the content height is greater than the image height */
+    background-attachment: fixed;
+
+    /* This is what makes the background image rescale based on its container's size */
+    background-size: cover;
+
+    /* Pick a solid background color that will be displayed while the background image is loading */
+    background-color:#464646;
+
+    /* SHORTHAND CSS NOTATION
+     * background: url(background-photo.jpg) center center cover no-repeat fixed;
+     */
+    height: 800px;
+
+}
+#container{
+    display: table;
+    padding-top: 200px;
+    width: 100%;
+}
+
+#content{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+}
+
+.select2-container .select2-selection--single{
+    height: 48px;
+    border-radius: 2px;
+}
+
+#content h1{
+    color: white;
+    font-size: 4em;
+    margin-bottom: 40px;
+    font-family: 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+    line-height: 1;
+    text-align: center;
+    padding-left: 150px;
+
+}
+.search-page{
+    background-image: url('/img/intro1.jpg');
+    background-repeat: repeat-x;
+    height: 300px;
+}
+
+.home-nav{
+    background-image: url('/img/footer_lodyas.png');
+    background-repeat: repeat;
+    /*background-color: #ffffff;*/
+}
+
+.navbar{
+    border: 0;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: #f0f0f0;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: #828282 !important;
+}
+
+.navbar-inverse .navbar-brand:hover{
+    color: #828282; !important;
+}
+
+.select2-selection__placeholder{
+    margin-left: -80%;
+}
+
+.green{
+    color: #03c9a9;
+}

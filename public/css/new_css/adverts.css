@@ -1,0 +1,32 @@
+.adverts{
+    width: 150px;
+    height: 150px;
+}
+
+.feature-name{
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.video-feature:after {
+    content: "";
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 50px;
+    height: 50px;
+    z-index: 100;
+    background: transparent url(/img/ytplay.png) no-repeat center;
+    pointer-events: none;
+}
+
+.video-click{
+    font-size: 11px;
+    font-style: italic;
+    color: deepskyblue;
+    display: block;
+    text-align: center;
+    margin-left: -60px;
+}

@@ -1,0 +1,9 @@
+.load{
+    height: 250px;
+    border: 2px blue dashed;
+    border-radius: 4px;
+}
+
+#uploader{
+    width: 610px !important;
+}
